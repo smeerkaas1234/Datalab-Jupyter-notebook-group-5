@@ -12,3 +12,4 @@ Hier noteren we de regels die wij volgen als het neerkomt op coderen.
 ## Coderen
 1. Variable namen zijn niet super afgekort
 2. Comments bij de code om uit te leggen 
+3. Je codeert alleen in je eigen cel, en past niet ongevraagd andermans code aan
